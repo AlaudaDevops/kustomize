@@ -23,7 +23,7 @@ builds:
       - amd64
       - arm64
     ldflags:
-      - -w -s -extldflags '-static'
+      - -w -s -extldflags '-static' -X sigs.k8s.io/kustomize/api/provenance.buildDate={{ .Date }} -X sigs.k8s.io/kustomize/api/provenance.version={{ .Version }}
     dir: ./kustomize
     main: .
     binary: alauda-kustomize
