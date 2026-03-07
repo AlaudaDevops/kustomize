@@ -145,7 +145,7 @@ require (
 	github.com/ckaznocha/intrange v0.3.0 // indirect
 	github.com/clbanning/mxj/v2 v2.7.0 // indirect
 	github.com/cli/browser v1.3.0 // indirect
-	github.com/cli/cli/v2 v2.62.0 // indirect
+	github.com/cli/cli/v2 v2.67.0 // indirect
 	github.com/cli/oauth v1.2.2 // indirect
 	github.com/cli/safeexec v1.0.1 // indirect
 	github.com/cloudflare/circl v1.6.3 // indirect
