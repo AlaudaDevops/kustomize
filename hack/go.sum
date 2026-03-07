@@ -323,6 +323,7 @@ github.com/cli/browser v1.3.0 h1:LejqCrpWr+1pRqmEPDGnTZOjsMe7sehifLynZJuqJpo=
 github.com/cli/browser v1.3.0/go.mod h1:HH8s+fOAxjhQoBUAsKuPCbqUuxZDhQ2/aD+SzsEfBTk=
 github.com/cli/cli v1.14.0 h1:M8nedDWQMOR0O5fqPe0jzB8QkmoNoUikVmudxKSlzw8=
 github.com/cli/cli v1.14.0/go.mod h1:R4In6i0pvue7PP3dcCU77i1zx0l8NYZupSkKLa5/ehY=
+github.com/cli/cli/v2 v2.62.0/go.mod h1:lFlAu9/wJZJFfPbpKYB1YK8L3HmaXF87NNk2mLRRFvs=
 github.com/cli/oauth v0.8.0/go.mod h1:qd/FX8ZBD6n1sVNQO3aIdRxeu5LGw9WhKnYhIIoC2A4=
 github.com/cli/oauth v1.2.2 h1:/qG/wok8jzu66tx7q+duGOIp4DT5P/ACXrdc33UoNUQ=
 github.com/cli/oauth v1.2.2/go.mod h1:qd/FX8ZBD6n1sVNQO3aIdRxeu5LGw9WhKnYhIIoC2A4=
