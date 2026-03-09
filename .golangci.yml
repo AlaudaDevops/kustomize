@@ -3,7 +3,7 @@
 
 run:
   deadline: 5m
-  go: "1.25"
+  go: "1.26"
 
 linters:
   enable-all: true
@@ -42,7 +42,7 @@ linters:
     - varcheck # abandoned by author
     - maligned # abandoned by author
     - interfacer # archived by author
-    # TODO(koba1t): temporarily disabled, will be addressed after upgrading to Go 1.25
+    # TODO(koba1t): temporarily disabled, will be addressed after upgrading to Go 1.26
     - usetesting
     - mnd
     - copyloopvar
