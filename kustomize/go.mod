@@ -1,13 +1,13 @@
 module sigs.k8s.io/kustomize/kustomize/v5
 
-go 1.26.1
+go 1.26.2
 
 require (
 	github.com/google/go-cmp v0.7.0
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/text v0.34.0
+	golang.org/x/text v0.35.0
 	sigs.k8s.io/kustomize/api v0.21.0
 	sigs.k8s.io/kustomize/cmd/config v0.21.0
 	sigs.k8s.io/kustomize/kyaml v0.21.0
