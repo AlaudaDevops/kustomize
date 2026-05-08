@@ -1,6 +1,6 @@
 module sigs.k8s.io/kustomize/functions/examples/template-go-nginx
 
-go 1.25.7
+go 1.26.3
 
 require sigs.k8s.io/kustomize/kyaml v0.13.7
 

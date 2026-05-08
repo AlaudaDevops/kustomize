@@ -1,6 +1,6 @@
 module sigs.k8s.io/kustomize/plugin/someteam.example.com/v1/bashedconfigmap
 
-go 1.25.7
+go 1.26.3
 
 require sigs.k8s.io/kustomize/api v0.21.0
 

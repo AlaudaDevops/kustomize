@@ -1,6 +1,6 @@
 module sigs.k8s.io/kustomize/functions/examples/validator-kubeval
 
-go 1.25.7
+go 1.26.3
 
 require (
 	github.com/instrumenta/kubeval v0.16.1
